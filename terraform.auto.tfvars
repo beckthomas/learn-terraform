@@ -1,1 +1,1 @@
-instance_type = "e2.micro"
+instance_type = "t2.small"
